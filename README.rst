@@ -18,7 +18,7 @@ The easiest way to install is via ``pip``. Simply do
     pip install fsim
 
 Notice that for maximum compatibility, the Linux wheel is shipped with ``gcc``, which allows xfim to be installed
-on any Linux system. macOS should work out of the box if the development tools are installed.
+on any Linux system. Do double check that gcc is at least version 10. macOS should work out of the box if the development tools are installed.
 
 Development
 +++++++++++
